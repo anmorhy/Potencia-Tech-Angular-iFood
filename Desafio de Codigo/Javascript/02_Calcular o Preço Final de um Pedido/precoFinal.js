@@ -11,10 +11,10 @@ const valorPago = parseFloat(gets());
 //TODO: Calcular o preço final do pedido (total dos hambúrgueres + total das bebidas).
 const valorTotalHamburguer = valorHamburguer * quantidadeHamburguer;
 const valorTotalBebida = valorBebida * quantidadeBebida;
-const valorTotalPedido = valorTotalHamburguer + valorTotalBebida;
+let valorTotalPedido = valorTotalHamburguer + valorTotalBebida;
 //TODO: Calcular o troco do pedido, considerando o preço final e o valor pago pelo usuário.
-const troco = valorPago -  valorTotalPedido;
+let troco = valorPago -  valorTotalPedido;
 
 //TODO: Imprimir a saída no formato especificado neste desafio.
-console.log('O preço final do pedido é R$ ' + (valorPedido) + '.' + 'Seu troco é R$ '+ (troco) + '.');
-
+const mensagem = `O preço final do pedido é R$ ${valorTotalPedido.toFixed(2)}. Seu troco é R$ ${troco.toFixed(2)}.`;
+print(mensagem)

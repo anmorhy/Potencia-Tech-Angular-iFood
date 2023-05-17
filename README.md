@@ -118,6 +118,41 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
     </div>
 </details>
 
+<details>
+    <summary><strong>Primeiras Paginas com Javascript</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="">Desafios</a></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Desafio_Tempo Estimado de Entrega</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Calcular o Preço Final de um Pedido</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Ganhe uma Sobremesa Especial!</td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Desafio_Identificado Pedidos Veganos</td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Desafio_Gerenciamento de Pedidos de Comida Online</td>
+                <td align="center">✔️</td>
+            </tr>         
+        </table>  
+    </div>
+</details>
 ## 💻 Tecnologias
 - HTML
 - CSS
